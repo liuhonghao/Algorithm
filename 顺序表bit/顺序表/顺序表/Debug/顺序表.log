@@ -1,0 +1,14 @@
+﻿生成启动时间为 2021/4/1 22:04:40。
+     1>项目“E:\学习路线\算法学习\算法代码\数据结构\顺序表bit\顺序表\顺序表\顺序表.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\JixTs1\JixTC\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "顺序表.cpp"
+         顺序表.cpp
+     1>e:\学习路线\算法学习\算法代码\数据结构\顺序表bit\顺序表\顺序表\顺序表.cpp(10): error C2440: “初始化”: 无法从“void *”转换为“SeqList *”
+                 从“void*”到指向非“void”的指针的转换要求显式类型转换
+     1>e:\学习路线\算法学习\算法代码\数据结构\顺序表bit\顺序表\顺序表\顺序表.cpp(16): error C2440: “=”: 无法从“SeqList *”转换为“SeqDataType *”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>已完成生成项目“E:\学习路线\算法学习\算法代码\数据结构\顺序表bit\顺序表\顺序表\顺序表.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.35
